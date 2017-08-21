@@ -7,5 +7,5 @@ Result:
 ![Vertical Timeline](https://scaalar.com/wp-content/uploads/2017/08/timeline-ezgif.com-optimize.gif)
 
 
-Demo:
-https://codepen.io/giannoulakis/pen/XaEZmd
+
+https://scaalar.com/2017/08/02/timeline-template-with-scroll-animations-no-plugins/
