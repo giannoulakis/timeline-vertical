@@ -23,6 +23,7 @@ h3{
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
+/* the timeline's center vertical line */
 .timeline:before{
 	content:"";
 	position:absolute;
@@ -44,6 +45,7 @@ h3{
 	opacity:0;
 	transform: translateX(-10%);
 }
+/* the rounded mark on each timeline item */
 .timeline li:before {
 	content:"";
 	width: 10px;
@@ -73,7 +75,7 @@ h3{
 	left: 0;
   transform: translate(-50%,-50%);
 }
-.timeline li.in {
+.timeline li.visible {
 	opacity:1;
 	transform:translateX(0);
 }

@@ -1,6 +1,6 @@
 # Vertical Timeline template with scroll animations
 
-The goal is to create a timeline with no plugins and with a very simple HTML, CSS and JavaScript code, so it will be very easy to edit and personalize it.
+A timeline with no plugins and with a very simple HTML, CSS and JavaScript code, so it will be very easy to edit and personalize it.
 
 Result:
 
